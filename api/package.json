@@ -1,9 +1,9 @@
 {
-  "name": "makeanodejsrestapi",
+  "name": "api-server",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/EQuimper/youtube-makeanodejsapi.git",
-  "author": "EQuimper <quimperemanuel@gmail.com>",
+  "repository": "https://github.com/krist-jin/Justnote.git",
+  "author": "Bo Jin <krist.jin.apply@gmail.com>",
   "license": "MIT",
   "scripts": {
     "clean": "rimraf dist",
